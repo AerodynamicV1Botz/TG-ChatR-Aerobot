@@ -2,7 +2,7 @@ openai==0.28.1
 telethon==1.30.3
 fastapi==0.103.1
 uvicorn
-python-dotenv
-duckduckgo_search
-unidecode
+python-dotenv==0.30.0
+duckduckgo_search==1.5.2
+unidecode==
 tiktoken==1.0.3
