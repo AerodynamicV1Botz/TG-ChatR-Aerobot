@@ -5,4 +5,4 @@ uvicorn
 python-dotenv
 duckduckgo_search
 unidecode
-tiktoken
+tiktoken==1.0.3
