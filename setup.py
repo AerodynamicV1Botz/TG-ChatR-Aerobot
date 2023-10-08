@@ -5,7 +5,7 @@ from typing import List
 from __version__ import __version__
 from setuptools import setup
 
-PROJECT_NAME = "Minnion"
+PROJECT_NAME = "AerodynamicV1Botz"
 cur_dir = os.path.abspath(os.path.dirname(__file__))
 
 
@@ -36,6 +36,6 @@ setup(
         "Intended Audience :: Developers",
         "Operating System :: Unix",
         "Programming Language :: Python",
-        "Programming Language :: Python :: 3.10.2",
+        "Programming Language :: Python :: 3.12.0",
     ],
 )
