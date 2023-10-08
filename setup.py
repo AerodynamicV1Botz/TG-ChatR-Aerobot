@@ -28,9 +28,9 @@ setup(
     description="OpenAI GPT bot with Duckduckgo search engine",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    author="Truong Ngoc Minh",
+    author="Vrajesh",
     author_email="@gmail.com",
-    url="https://github.com/mitumh3/tlg-chatbot-render",
+    url="https://github.com/AerodynamicV1Botz/TG-ChatR-Aerobot",
     install_requires=read_requirements(),
     classifiers=[
         "Intended Audience :: Developers",
