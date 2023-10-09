@@ -1,6 +1,6 @@
 openai==0.28.1
 telethon==1.30.3
-fastapi==0.103.1
+fastapi==0.103.2
 uvicorn
 python-dotenv==1.0.0
 duckduckgo_search==1.5.2
