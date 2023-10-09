@@ -28,7 +28,7 @@ setup(
     description="OpenAI GPT bot with Duckduckgo search engine",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    author="Vrajesh",
+    author="Truong Ngoc Minh",
     author_email="@gmail.com",
     url="https://github.com/AerodynamicV1Botz/TG-ChatR-Aerobot",
     install_requires=read_requirements(),
@@ -36,6 +36,6 @@ setup(
         "Intended Audience :: Developers",
         "Operating System :: Unix",
         "Programming Language :: Python",
-        "Programming Language :: Python :: 3.12.0",
+        "Programming Language :: Python :: 3.10.2",
     ],
 )
