@@ -85,7 +85,7 @@ def get_response(prompt: Prompt, filename: str) -> List[str]:
         )
         result = completion.choices[0].message
         num_tokens = completion.usage.total_tokens
-        responses = f"{result.content}\n\n__({num_tokens} tokens used)__"
+        responses = f"{result.content}\n\n__⟨{num_tokens} words used⟩ Develop by [@AerodynamicV1Botz](https://telegram.me/AerodynamicV1_Update)__"
         prompt.append(result)
         data = {"messages": prompt}
         with open(filename, "w") as f:
